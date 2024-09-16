@@ -6,10 +6,10 @@ import AddStore from './components/AddStore';
 import ListUsers from './components/ListUsers';
 import ListStores from './components/ListStores';
 import Logout from './components/Logout';
-import './styles.css';
+import './App.css';
 
 import "bootstrap/dist/css/bootstrap.css";
-import "bootstrap/dist/js/bootstrap.bundle"
+import "bootstrap/dist/js/bootstrap.bundle";
 
 
 const App = () => {
